@@ -1,0 +1,1 @@
+python3 main.py --dataset_name sunrgbd --nqueries 128 --test_ckpt /home/kemorobi/3detr/pretrained_models/sunrgbd_ep1080.pth --test_only
